@@ -10,7 +10,7 @@ function checkingFormats() {
 
             '<tr class="tableNav">' +
 
-                '<td id="navLogoImg" style="width: 75px; height: 75px; padding: 0%;"><img src="images/rEXiV-2.png"> </td>' +
+                '<td id="navLogoImg" style="width: 75px; height: 75px; padding: 0%;"><img src="/Images/rEXiV-2.png"> </td>' +
 
                 '<td id="navName" style="padding-left: 15px; padding-right: 15px;">BRENDAN (RAPTOR) TAN YUAN XI</td>' +
 
@@ -35,11 +35,11 @@ function checkingFormats() {
 
             '<tr class="tableNav">' +
 
-                '<td id="navLogoImg" style="width: 75px; height: 75px; padding: 0%;"><img src="images/rEXiV-2.png"> </td>' +
+                '<td id="navLogoImg" style="width: 75px; height: 75px; padding: 0%;"><img src="/Images/rEXiV-2.png"> </td>' +
 
                 '<td id="navName" style="padding-left: 15px; padding-right: 15px;">BRENDAN (RAPTOR) TAN YUAN XI</td>' +
 
-                '<td style="width: 75px; height: 75px;"><img src="images/HamBurger.png" onclick="enterExcel()"></td>' +
+                '<td style="width: 75px; height: 75px;"><img src="/Images/HamBurger.png" onclick="enterExcel()"></td>' +
 
             '</tr>' +
 
@@ -81,11 +81,11 @@ function expandMobileNav(){
 
             '<tr class="tableNav">' +
 
-                '<td id="navLogoImg" style="width: 75px; height: 75px;"><img src="images/rEXiV-2.png"> </td>' +
+                '<td id="navLogoImg" style="width: 75px; height: 75px;"><img src="/Images/rEXiV-2.png"> </td>' +
 
                 '<td id="navName" style="padding-left: 5%; padding-right: 5%;">BRENDAN (RAPTOR) TAN YUAN XI</td>' +
 
-                '<td style="width: 75px; height: 75px;"><img src="images/HamBurger.png" onclick="enterExcel()"></td>' +
+                '<td style="width: 75px; height: 75px;"><img src="/Images/HamBurger.png" onclick="enterExcel()"></td>' +
 
             '</tr>' +
 
@@ -124,11 +124,12 @@ function expandMobileNav(){
 
         '<tr class="tableNav">' +
 
-            '<td id="navLogoImg" style="width: 75px; height: 75px;"><img src="images/rEXiV-2.png"> </td>' +
+            '<td id="navLogoImg" style="width: 75px; height: 75px;"><img src="/Images/rEXiV-2.png"> </td>' +
 
             '<td id="navName" style="padding-left: 5%; padding-right: 5%;">BRENDAN (RAPTOR) TAN YUAN XI</td>' +
 
-            '<td style="width: 75px; height: 75px;"><img src="images/HamBurger.png" onclick="enterExcel()"></td>' +
+                '<td style="width: 75px; height: 75px;"><img src="/Images/HamBurger.png" onclick="enterExcel()"></td>' +
+            '<td style="width: 75px; height: 75px;"><img src="mages/HamBurger.png" onclick="enterExcel()"></td>' +
 
         '</tr>'
     }

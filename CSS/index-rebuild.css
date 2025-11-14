@@ -1,0 +1,20 @@
+body{
+
+    margin: 0%;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1em;
+
+}
+
+.alertBlock {
+
+    background-color: red;
+    color: azure;
+
+    padding: 1em;
+
+    text-align: center;
+
+}
